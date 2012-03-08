@@ -1,4 +1,4 @@
-class Mercury::Image
+class MercuryImage
   include Mongoid::Document
   include Mongoid::Paperclip
 
